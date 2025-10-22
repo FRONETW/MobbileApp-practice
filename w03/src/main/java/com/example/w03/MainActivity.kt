@@ -15,6 +15,7 @@ import androidx.compose.foundation.layout.Column
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.ui.Alignment
+import com.example.w03.ui.theme.AndroidappTheme
 import androidx.compose.foundation.Image
 import androidx.compose.ui.res.painterResource
 import androidx.compose.foundation.layout.size
@@ -32,27 +33,25 @@ class MainActivity : ComponentActivity() {
 }
 @Composable()
 fun HomeScreen() {
-    Column (
-        modifier = Modifier
-            .fillMaxSize(),
+    Column(
+        modifier = Modifier.fillMaxSize(),
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
-    )
-    {
-
-        Text("Compose Coffee",
+    ) {        Text("Compose Coffee",
+        style = MaterialTheme.typography.headlineMedium)
+        Text("위치: 우송대 정문 앞",
             style = MaterialTheme.typography.headlineMedium)
         Image(
             painter = painterResource(id = R.drawable.compose),
             contentDescription = "Jetpack Compose 로고",
             modifier = Modifier
-                .size(300.dp)
+                .size(300.dp) // 이미지 크기 지정
                 .padding(16.dp)
         )
-        Text("위치: 우송대 정문 앞", style = MaterialTheme.typography.headlineMedium)
     }
 
 }
+
 
 @Preview(showBackground = true)
 @Composable

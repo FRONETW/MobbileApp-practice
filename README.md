@@ -77,4 +77,15 @@
 </p>
 
 **코드**
-####
+
+## 변수
+<p><img src="imges/code_img/snakgame(변수).png" widith="200"></p>
+
+## 조작
+<p><img src="imges/code_img/snakgame(조작키).png" widith="200"><img src="imges/code_img/snakgame(조작키 이미지).png" widith="200"></p>
+
+## 오브젝트
+<p><img src="imges/code_img/snakgame(뱀,음식,화면).png" widith="200"></p>
+
+## 게임종료
+<p><img src="imges/code_img/snakgame(게임종료).png" widith="200"></p>

@@ -3,20 +3,20 @@
 
 ## 처음 시작 ##
 
-## w03 ##
+## w03 ## ( 화면구성 )
 <p>
   <img src="imges/img/w03.png" width="200">
   <img src="imges/code_img/w03.png" width="200">
 </p>
 
-## w04 ##
+## w04 ## ( 프로킬 카드, 메시지 카드 )
 <p>
   <img src="imges/img/w04(white).png" width="200">
   <img src="imges/img/w04(black).png" width="200">
   <img src="imges/code_img/w03.png" width="200">
 </p>
 
-## w05 ##
+## w05 ## ( 이벤트 처리 )
 
 
-## w06 ##
+## w06 ## ( 버블 게임 )

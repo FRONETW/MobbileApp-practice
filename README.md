@@ -42,7 +42,8 @@
 **타이머**
 <p>
   <img src="imges/img/w05(타이머함수).png" width="200">
-  <img src="imges/code_img/w05(타이머).png" width="200">
-  <img src="imgescode_/img/w05.png" width="200">
+  <img src="imges/img/code_img/w05(타이머).png" width="200">
+  <img src="imges/img/code_img/w05.png" width="200">
 </p>
+
 ## w06 ( 버블 게임 )

@@ -4,6 +4,8 @@
 ## 처음 시작 ##
 
 ## w03 ##
+#-핵심주제#
+'1.'
 ![](imges/img/w03.png)
 ## w04 ##
 ![](imges/img/w04(white).png)

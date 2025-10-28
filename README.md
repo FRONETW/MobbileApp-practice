@@ -13,6 +13,7 @@
 <p>
   <img src="imges/img/w04(white).png" width="200">
   <img src="imges/img/w04(black).png" width="200">
+  <img src="imges/code_img/w03.png" width="200">
 </p>
 ## w05 ##
 -화면 클릭시 이펙트와 타이머 작동 원리

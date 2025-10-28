@@ -47,17 +47,25 @@
 </p>
 
 ## w06 ( 버블 게임 )
-##게임화면
+## 게임화면
 <p>
   <img src="imges/img/w06.png" width="200">
 </p>
 
-##버블##
+## UI ##
 <p>
-  <strong>버블이동</strong>
-  <img src="imges/code_img/w06(버블이동).png" width="200">
-  <img src="imges/code_img/w05(버블 갯수).png" width="200">
+  <img src="imges/code_img/w06(UI, 다시실행).png" width="200">
 </p>
 
+## 버블 ##
+<p>
+  <img src="imges/code_img/w06(버블이동).png" width="200">
+  <img src="imges/code_img/w06(버블 갯수).png" width="200">
+</p>
 
+## 이벤트 ##
+<p>
+  <img src="imges/code_img/w06(버튼 이벤트).png" width="200">
+  <img src="imges/code_img/w06(타이머).png" width="200">
+</p>
 

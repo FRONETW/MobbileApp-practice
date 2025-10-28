@@ -4,7 +4,7 @@
 ## 처음 시작 ##
 
 ## w03 ##
-(https://github.com/FRONETW/MobbileApp-practice/tree/main/imges/code_img/w03.png)
+!(https://github.com/FRONETW/MobbileApp-practice/tree/main/imges/img/w03.png)
 ## w04 ##
 
 ## w05 ##

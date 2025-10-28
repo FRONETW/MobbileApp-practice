@@ -66,7 +66,7 @@ fun CounterApp() {
 @Composable
 fun StopWatchApp() {
     // 1. 시간(밀리초)과 타이머 실행 여부를 기억할 State 변수 추가
-    var timeInMillis by remember { mutableStateOf(1234L) }
+    var timeInMillis by remember { mutableStateOf(1L) }
     var isRunning by remember { mutableStateOf(false) }
     fun formatTime(timeInMillis: Long): String {
         val seconds = (timeInMillis / 1000) % 60

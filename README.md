@@ -69,3 +69,9 @@
   <img src="imges/code_img/w06(타이머).png" width="200">
 </p>
 
+## 스네이크 게임
+**게임화면**
+<p>
+  <img src="imges/img/snakgame(1).png" width="200">
+  <img src="imges/img/snakgame(2).png" width="200">
+</p>

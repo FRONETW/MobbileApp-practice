@@ -47,3 +47,7 @@
 </p>
 
 ## w06 ( 버블 게임 )
+<p>
+  <img src="imges/img/w06).png" width="200">
+</p>
+

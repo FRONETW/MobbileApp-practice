@@ -13,7 +13,7 @@
 **프로킬_카드**
 <p>
   <img src="imges/img/w04(프로필카드).png" width="200">
-  <img src="imges/code_img/code_w04(프로필카드).png" width="200">
+  <img src="imges/code_img/w04(프로필카드).png" width="200">
   <img src="imges/code_img/w04(프로필카드 출력).png" width="200">
 </p>
 

@@ -12,12 +12,14 @@
 ## w04 ( 프로킬 카드, 메시지 카드 )
 **프로킬_카드**
 <p>
-  <img src="imges/img/code_w04(프로필카드).png" width="200">
+  <img src="imges/img/w04(프로필카드).png" width="200">
+  <img src="imges/code_img/code_w04(프로필카드).png" width="200">
   <img src="imges/code_img/w04(프로필카드 출력).png" width="200">
 </p>
 
 **메시지_카드**
 <p>
+  <img src="imges/img/w04(메시지카드).png" width="200">
   <img src="imges/code_img/w04(메시지카드).png" width="200">
   <img src="imges/code_img/w04(이미지카드 출력).png" width="200">
 </p>

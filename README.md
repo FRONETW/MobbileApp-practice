@@ -4,8 +4,9 @@
 ## 처음 시작 ##
 
 ## w03 ##
-![](imges/img/w03.png)
-<img src="imges/img/w03.png">| 사용자가 할 일을 관리할 수 있는 Todo 앱입니다. |
+<img src="imges/img/w03.png">
+<img src="imges/code_img/w03.png">
+# 핵심 #
 ## w04 ##
 ![](imges/img/w04(white).png)
 ![](imges/img/w04(black).png)

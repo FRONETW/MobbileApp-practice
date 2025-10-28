@@ -32,6 +32,17 @@
 </p>
 
 ## w05 ( 이벤트 처리 )
+**클릭**
+<p>
+  <img src="imges/img/w05(클릭).png" width="200">
+  <img src="imges/code_img/w05(클릭함수).png" width="200">
+  <img src="imges/code_img/w05(클릭화면).png" width="200">
+</p>
 
-
+**타이머**
+<p>
+  <img src="imges/img/w05(타이머함수).png" width="200">
+  <img src="imges/code_img/w05(타이머).png" width="200">
+  <img src="imgescode_/img/w05.png" width="200">
+</p>
 ## w06 ( 버블 게임 )

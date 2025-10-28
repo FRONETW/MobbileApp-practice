@@ -4,8 +4,8 @@
 ## 처음 시작 ##
 
 ## w03 ##
-<img src="imges/img/w03.png">
-<img src="imges/code_img/w03.png">
+<img src="imges/img/w03.png" width="200">
+<img src="imges/code_img/w03.png" width="200">
 # 핵심 #
 ## w04 ##
 ![](imges/img/w04(white).png)

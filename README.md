@@ -1,6 +1,7 @@
 # MobbileApp-practice
+-https://github.com/FRONETW/MobbileApp-practice/blob/main/README.md
 
-## 처음 시작 ##https://github.com/FRONETW/MobbileApp-practice/blob/main/README.md
+## 처음 시작 ##
 
 ## w03 ##
 

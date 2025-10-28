@@ -10,9 +10,8 @@
 </p>
 
 ## w04 ## ( 프로킬 카드, 메시지 카드 )
+**_화이트 모드, 다크 모드_**
 <p>
-  
-  **_화이트 모드, 다크 모드_**
   <img src="imges/img/w04(white).png" width="200">
   <img src="imges/img/w04(black).png" width="200">
   <img src="imges/code_img/w03.png" width="200">

@@ -3,7 +3,7 @@
 
 ## 처음 시작 ##
 
-## w03 ## ( 화면구성 )
+## w03  ( 화면구성 )
 <p>
   <img src="imges/img/w03.png" width="200">
   <img src="imges/code_img/w03.png" width="200">

@@ -28,7 +28,7 @@
 <p>
   <img src="imges/img/w04(white).png" width="200">
   <img src="imges/img/w04(black).png" width="200">
-  <img src="imges/code_img/w03.png" width="200">
+  <img src="imges/code_img/w04(모드 전환).png" width="200">
 </p>
 
 ## w05 ( 이벤트 처리 )

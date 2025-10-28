@@ -120,7 +120,7 @@ fun BubbleGameScreen() {
                 while (!gameState.isGameOver) {
                     delay(16)
                     // 버블 이동
-                    gameState.bubbles = gameState.bubbles.map { bubble ->
+                        gameState.bubbles = gameState.bubbles.map { bubble ->
                         with(density) {
                             val radiusPx = bubble.radius.dp.toPx()
                             var xPx = bubble.position.x.dp.toPx() + bubble.velocityX.dp.toPx()

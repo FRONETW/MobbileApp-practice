@@ -52,5 +52,12 @@
   <img src="imges/img/w06.png" width="200">
 </p>
 
+##버블##
+<p>
+  <strong>버블이동</strong>
+  <img src="imges/code_img/w06(버블이동).png" width="200">
+  <img src="imges/code_img/w05(버블 갯수).png" width="200">
+</p>
+
 
 

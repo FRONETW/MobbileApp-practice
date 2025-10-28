@@ -1,7 +1,7 @@
 # MobbileApp-practice
 -https://github.com/FRONETW/MobbileApp-practice/blob/main/README.md
 
-## 처음 시작 ##
+### 처음 시작 ###
 
 ## w03  ( 화면구성 )
 <p>

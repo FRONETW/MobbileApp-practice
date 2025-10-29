@@ -98,12 +98,18 @@
 
 ## 변수
 <p><img src="imges/code_img/snakgame(변수).png" widith="200"></p>
+-게임에 필요한 스네이크, 방향, 음식, 게임오버(true 인지 false인지 인지하기 위해서), 게임 사이즈 설정 
 
 ## 조작
 <p><img src="imges/code_img/snakgame(조작키).png" widith="200"><img src="imges/code_img/snakgame(조작키 이미지).png" widith="200"></p>
+-딜레이 동안 조작 버튼을 클릭하였을 경우에 스네이크와 방향을 변화시켜서 head에 저장하여서 이동하는 방향을 변화
+-newhead의 x,y가 gridsize의 값보다 크거나 값으면은 gameover이 true로 변화해서 게임 종료
+-딜레이로 인해서 변한 시간동안 이동한 거리와 방향에 newsnake를 만들고 전에 있던 snake는 삭제됨
+-만약 food를 먹었을 경우에는 food가 랜던한 gridsize(맵 사이즈)에 x,y 값이 새롭게 만들어짐
 
 ## 오브젝트
 <p><img src="imges/code_img/snakgame(뱀,음식,화면).png" widith="200"></p>
 
 ## 게임종료
 <p><img src="imges/code_img/snakgame(게임종료).png" widith="200"></p>
+-gameOver이 true였을 경우에 작동되어서 버튼을 눌렀을 경우에 다시 gameover이 false로 변화되어서 게임이 다시 시작됨

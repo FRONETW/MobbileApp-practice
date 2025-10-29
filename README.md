@@ -9,9 +9,9 @@
   <img src="imges/code_img/w03.png" width="200">
 </p>
 - **배운 내용:**  
-  버튼 클릭 이벤트, 타이머 기능을 구현했습니다.  
-  `setOnClickListener`로 클릭 동작을 제어하고,  
-  `Handler`나 `Timer`를 이용해 반복 동작을 만들었습니다.
+  Text: 적성한 문장을 화면에 출력
+  Image: res파일의 이미지 파일을 이용해서 화면에 이미지 출력
+  Column: 이미지와 문장을 쓰기 위해서 사용
 
 ## w04 ( 프로킬 카드, 메시지 카드 )
 **프로킬_카드**
@@ -20,6 +20,12 @@
   <img src="imges/code_img/w04(프로필카드).png" width="200">
   <img src="imges/code_img/w04(프로필카드 출력).png" width="200">
 </p>
+- **배운 내용:**  
+  Row: 옆으로 나란히  배열 가능하게됨
+  Spacer: 빈 간격(여백)을 사용자가 좀더 보기 편하게 만듬
+  .size: 이미지나 박스의 크기 조절
+  padding: 요소 안 테두리의 여백
+  margin: 요소 밖 다른 요소와의 간격
 
 **메시지_카드**
 <p>

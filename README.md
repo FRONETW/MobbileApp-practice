@@ -71,6 +71,7 @@
 
 **UI**
 <p>
+  <img src="imges/code_img/w06(UI).png" width="200">
   <img src="imges/code_img/w06(UI, 다시실행).png" width="200">
 </p>
 

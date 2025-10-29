@@ -8,6 +8,10 @@
   <img src="imges/img/w03.png" width="200">
   <img src="imges/code_img/w03.png" width="200">
 </p>
+- **배운 내용:**  
+  버튼 클릭 이벤트, 타이머 기능을 구현했습니다.  
+  `setOnClickListener`로 클릭 동작을 제어하고,  
+  `Handler`나 `Timer`를 이용해 반복 동작을 만들었습니다.
 
 ## w04 ( 프로킬 카드, 메시지 카드 )
 **프로킬_카드**

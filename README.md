@@ -46,6 +46,8 @@
 
 ## w05 ( 이벤트 처리 )
 **클릭**
+-Button의 onClick으로 클릭할때마다 처음 값에서 클릭마다 1씩 증가
+
 <p>
   <img src="imges/img/w05(클릭).png" width="200">
   <img src="imges/code_img/w05(클릭함수).png" width="200">
@@ -53,6 +55,8 @@
 </p>
 
 **타이머**
+-LaunchedEffect으로 isRunning이 true일때 마다 delay를 주어서 10밀리초마다 10밀리초 만큼 timeInMillis에 추가하여서 시간이 지남을 구현
+
 <p>
   <img src="imges/img/w05(타이머).png" width="200">
   <img src="imges/code_img/w05(타이머함수).png" width="200">

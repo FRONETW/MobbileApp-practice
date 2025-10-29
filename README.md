@@ -35,6 +35,9 @@
 </p>
 
 **_화이트 모드, 다크 모드_**
+**미리보기**
+-다크 모드와 일반 모드의 차이을 알기 위해서 두개를 동시에 사용함
+
 <p>
   <img src="imges/img/w04(white).png" width="200">
   <img src="imges/img/w04(black).png" width="200">
